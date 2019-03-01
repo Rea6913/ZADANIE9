@@ -1,4 +1,7 @@
-﻿namespace PadawansTask9
+﻿using System;
+using System.Collections.Generic;
+
+namespace PadawansTask9
 {
     public struct Point
     {
